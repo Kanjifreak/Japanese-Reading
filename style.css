@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    flex-direction: row;
+    background-color:#f8dd9a;
+}
+#banner img{
+    height: 100%;
+    width: 100%;
+}
+.h{
+    color:rgb(133, 77, 34);
+}
+.sub{
+    color:rgb(36, 17, 1);
+}
+#enjoy{
+    font-weight: bold;
+}
+#why{
+    color:rgb(146, 66, 6);
+}
+img{
+    width:350px ;
+    height:200px;
+}
+.lik{
+    color: orangered;
+}
+img{
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.pos{
+    justify-content: center;
+    align-items: center;
+}
+.margin{
+    text-decoration: dashed;
+    color:black;
+}
+#headd{
+    justify-content: center;
+    align-items: center;
+}
+.desc{
+    color:rgb(146, 66, 6);
+}
+.websites{
+    color:rgb(36, 17, 1);
+}
